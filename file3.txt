@@ -1,2 +1,2 @@
 Modification 1 in feature1
-
+Modification 1 in feature2
